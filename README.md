@@ -1,4 +1,9 @@
 # odin-recipes
 
-This project has been suggested by The Odin Project Foundations course and is meant to make me acquire HTML basic knowledge, such as HTML boilerplate, basic elements and their attribute.
+This project has been suggested by The Odin Project Foundations course and is meant to make me acquire basic Frontend development
+knowledge, such as HTML (Hypertext Markup language) used for defining websites' structure and CSS (Cascading Style Sheet) for adding styles/designs of webpages.
 
+Images credits:
+- Amatriciana pasta --> Pratik Gupta ()
+- Spaghetti aglio/olio --> Adrian Vieriu (https://www.pexels.com/@printexstar/)
+- Pesto pasta image --> Daniele Sgura (https://www.pexels.com/@daniele-sgura-2571626/)
