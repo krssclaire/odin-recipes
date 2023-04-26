@@ -4,6 +4,6 @@ This project has been suggested by The Odin Project Foundations course and is me
 knowledge, such as HTML (Hypertext Markup language) used for defining websites' structure and CSS (Cascading Style Sheet) for adding styles/designs of webpages.
 
 Images credits:
-- Amatriciana pasta --> Pratik Gupta ()
+- Amatriciana pasta --> Pratik Gupta (https://unsplash.com/@graylab)
 - Spaghetti aglio/olio --> Adrian Vieriu (https://www.pexels.com/@printexstar/)
 - Pesto pasta image --> Daniele Sgura (https://www.pexels.com/@daniele-sgura-2571626/)
