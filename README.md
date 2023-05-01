@@ -1,7 +1,9 @@
 # odin-recipes
 
-This project has been suggested by The Odin Project Foundations course and is meant to make me acquire basic Frontend development
-knowledge, such as HTML (Hypertext Markup language) used for defining websites' structure and CSS (Cascading Style Sheet) for adding styles/designs of webpages.
+This project, part of The Odin Project Foundations course, is meant to practice basic Frontend development
+knowledge, such as HTML (Hypertext Markup language) and CSS (Cascading Style Sheet).
+
+The "design" folder contains additional images of the project designed via Figma, however the final result is not completely the same.
 
 Images credits:
 - Spaghetti Home --> Nork Photography (https://www.pexels.com/@norkphotography/)
