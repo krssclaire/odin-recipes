@@ -124,10 +124,6 @@ h3 {
     h3 {
         font-size: 0.75em;
     }
-    .recipe {
-        padding: 0;
-        top: 140vh;
-    }
     .recipe li {
         max-width: 50vw; 
         font-size: 0.6em;
