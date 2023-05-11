@@ -10,7 +10,6 @@ body, html {
   background-color: #1E1E1E;
   color: white;
   font-family: 'Lexend', sans-serif;
-  scroll-behavior: smooth;
 }
 
 #home-bg {
@@ -40,7 +39,7 @@ body, html {
 .title ul {
   display: flex;
   justify-content: space-around;
-  gap: 25px;
+  gap: 2vw;
 }
 
 .uppercase {
@@ -48,7 +47,9 @@ body, html {
 }
 
 .line {
-  width: 500px;
+  width: 50vw;
+  min-width: 265px;
+  max-width: 500px;
 }
 
 h1 {
@@ -67,4 +68,18 @@ a {
 
 a:hover { 
   font-weight: bolder;
+}
+
+/* Mobile version*/
+@media screen and (max-width: 540px) {
+  .title {
+    gap: 15px;
+  }
+  h1 {
+    font-size: 2em;
+  }
+  .title ul {
+    flex-direction: column;
+    font-size: 0.75em;
+  }
 }
