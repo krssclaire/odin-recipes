@@ -109,7 +109,7 @@ h3 {
     .recipe {
         flex-direction: column;
         gap: 40px;
-        top: 140vh;
+        top: 150vh;
     } 
     .ingredients, .steps {
         align-self: center;
@@ -126,7 +126,7 @@ h3 {
     }
     .recipe {
         padding: 0;
-        top: 125vh;
+        top: 140vh;
     }
     .recipe li {
         max-width: 50vw; 
