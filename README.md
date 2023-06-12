@@ -1,7 +1,7 @@
 <!-- INTRO -->
 # Italian Recipes
 
-Three popular Italian Recipes in Black & White aesthetic website.
+Three popular Italian Recipes in Black & White aesthetic website. <br> 
 Live demo: [Italian Recipes - Home Page](https://krssclaire.github.io/odin-recipes/)
 
 
@@ -24,23 +24,23 @@ Live demo: [Italian Recipes - Home Page](https://krssclaire.github.io/odin-recip
 ## Features
 
 * It can navigate through webpages
-* Responsive design for both Desktop and Mobile
+* Responsive design for both Desktop, Tablet and Mobile.
 
 
 ## What I learned
 
 * Scroll behavior of webpages can be changed
 * Use of CSS background images and filters
-* First approach to Figma Design
+* Figma to start organizing the design
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Inspired by [The Odin Project](https://www.theodinproject.com/) Foundations Course
+* Inspired by [The Odin Project](https://www.theodinproject.com/) first project of the Foundations Course
 * Images credits:
-    * Spaghetti by [Nork Photography](https://www.pexels.com/@norkphotography/)
-    * Amatriciana by [Pratik Gupta](https://unsplash.com/@graylab)
-    * Spaghetti aglio/olio by [Adrian Vieriu](https://www.pexels.com/@printexstar/)
-    * Pesto pasta by [Daniele Sgura](https://www.pexels.com/@daniele-sgura-2571626/)
-* Chef icon by Those Icons - [Flaticon](https://www.flaticon.com/free-icons/chef)
+    - Spaghetti by [Nork Photography](https://www.pexels.com/@norkphotography/)
+    - Amatriciana by [Pratik Gupta](https://unsplash.com/@graylab)
+    - Spaghetti aglio/olio by [Adrian Vieriu](https://www.pexels.com/@printexstar/)
+    - Pesto pasta by [Daniele Sgura](https://www.pexels.com/@daniele-sgura-2571626/)
+* Chef icon by [Flaticon](https://www.flaticon.com/free-icons/chef)
