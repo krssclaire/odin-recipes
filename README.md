@@ -1,17 +1,7 @@
 <!-- INTRO -->
-<div align="center">
-    <a href="https://0xabdulkhalid.github.io/basket-sign-up/">
-      <img src="assets/chef.png" alt="Icon" width="500px" height="500px">
-    </a>
+# Italian Recipes
 
-    <h3 align="center"><b>Italian Recipes</b></h3>
-  
-    <p align="center">
-      <a href="https://krssclaire.github.io/odin-recipes/">View Demo</a>
-      |
-      <a href="https://www.github.com/krssclaire/odin-recipes/issues">Report Bug</a>
-    </p>
-</div>
+Live preview: [Italian Recipes - Landing Page](https://krssclaire.github.io/odin-recipes/)
 
 
 <!-- ABOUT THE PROJECT -->
