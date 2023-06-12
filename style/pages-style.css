@@ -1,5 +1,4 @@
 html, body {
-    scroll-behavior: smooth;
     scroll-snap-type: y mandatory;
     display: flex;
     flex-direction: column;

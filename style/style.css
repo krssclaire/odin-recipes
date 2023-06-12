@@ -10,6 +10,7 @@ body, html {
   background-color: #1E1E1E;
   color: white;
   font-family: 'Lexend', sans-serif;
+  scroll-behavior: smooth;
 }
 
 #home-bg {
