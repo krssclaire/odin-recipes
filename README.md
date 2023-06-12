@@ -1,10 +1,8 @@
 <!-- INTRO -->
-<h2 text-align="center">Italian Recipes</h2>
+# Italian Recipes
 
-<p text-align="center">
-    Live demo: <br>
-    [Italian Recipes - Landing Page](https://krssclaire.github.io/odin-recipes/)
-</p>
+Three popular Italian Recipes in Black & White aesthetic website.
+Live demo: [Italian Recipes - Home Page](https://krssclaire.github.io/odin-recipes/)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -16,11 +14,11 @@
 
 ## Tools used
 
-* ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-* ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-* ![CLI](https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-* ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-* ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
+![CLI](https://img.shields.io/badge/Terminal-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## Features
