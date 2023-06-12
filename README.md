@@ -1,8 +1,8 @@
 <!-- INTRO -->
-# Italian Recipes
+# Three Italian Recipes
 
 Three popular Italian Recipes in Black & White aesthetic website. <br> 
-Live demo: [Italian Recipes - Home Page](https://krssclaire.github.io/odin-recipes/)
+Live demo: [Home Page](https://krssclaire.github.io/odin-recipes/)
 
 
 <!-- ABOUT THE PROJECT -->
@@ -39,7 +39,7 @@ Live demo: [Italian Recipes - Home Page](https://krssclaire.github.io/odin-recip
 
 * Inspired by [The Odin Project](https://www.theodinproject.com/) first project of the Foundations Course
 * Images credits:
-    - Spaghetti by [Nork Photography](https://www.pexels.com/@norkphotography/)
+    * Spaghetti by [Nork Photography](https://www.pexels.com/@norkphotography/)
     - Amatriciana by [Pratik Gupta](https://unsplash.com/@graylab)
     - Spaghetti aglio/olio by [Adrian Vieriu](https://www.pexels.com/@printexstar/)
     - Pesto pasta by [Daniele Sgura](https://www.pexels.com/@daniele-sgura-2571626/)
